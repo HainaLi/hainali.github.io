@@ -5,16 +5,16 @@ I'm a third year PhD student in Computer Science at the University of Virginia (
 ### Publications
 Decentralized Certificate Authorities  
 Bargav Jayaraman*, **Hannah Li*** and David Evans (*co-equal first authors)  
-In arXiv, June 2017. [link](https://arxiv.org/pdf/1706.03370.pdf) [project page](https://github.com/HainaLi/DecentralizedCA)  
+In arXiv, June 2017. [link](https://arxiv.org/pdf/1706.03370.pdf), [project page](https://github.com/HainaLi/DecentralizedCA)  
 
 Horcrux, A Password Manager for Paranoids  
 **Hannah Li** and David Evans  
-In arXiv, June 2017. [link](https://arxiv.org/pdf/1706.05085.pdf) [project page](https://github.com/HainaLi/horcrux_password_manager)
+In arXiv, June 2017. [link](https://arxiv.org/pdf/1706.05085.pdf), [project page](https://github.com/HainaLi/horcrux_password_manager)
 
 ### Posters
 Insecure by Default? Authentication Services in Popular Web Frameworks  
 **Hannah Li** and David Evans  
-USENIX Poster Sessions, August 2016. [link](https://github.com/HainaLi/hainali.github.io/blob/master/HainaLiUSENIX2016-Final.pdf)  
+USENIX Poster Sessions, August 2016. [poster](https://github.com/HainaLi/hainali.github.io/blob/master/HainaLiUSENIX2016-Final.pdf), [abstract](https://github.com/HainaLi/hainali.github.io/blob/master/insecure-default-authentication.pdf)  
 
 ### Work Experience 
 
