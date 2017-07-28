@@ -1,5 +1,7 @@
 ## Haina "Hannah" Li ([Resume](https://hainali.github.io/pdfs/Hannah%20Li%20-%20Resume.pdf))
 
+<img width="250" align="left" src="hainali.jpg">
+
 I'm a graduate student in Computer Science at the University of Virginia (School of Engineering and Applied Science). I'm advised by [David Evans](http://www.cs.virginia.edu/~evans/) and my research area is in web security and privacy.
 
 I'm currently looking for a full-time position as a security/software engineer starting in the fall of 2017. I'm willing to relocate anywhere in mainland USA. 
