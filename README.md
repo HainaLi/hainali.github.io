@@ -1,6 +1,6 @@
 ## Haina "Hannah" Li ([Resume](https://hainali.github.io/pdfs/Hannah%20Li%20-%20Resume.pdf))
 
-<img width="250" align="left" src="hainali.jpg">
+<img width="250" hspace="20" align="left" src="hainali.jpg">
 
 I'm a graduate student in Computer Science at the University of Virginia (School of Engineering and Applied Science). I'm advised by [David Evans](http://www.cs.virginia.edu/~evans/) and my research area is in web security and privacy.
 
@@ -27,6 +27,10 @@ In arXiv, June 2017. [paper](https://arxiv.org/pdf/1706.05085.pdf), [project pag
 Insecure by Default? Authentication Services in Popular Web Frameworks  
 **Hannah Li** and David Evans  
 USENIX Poster Sessions, August 2016. [poster](https://hainali.github.io/pdfs/HainaLiUSENIX2016-Final.pdf), [abstract](https://hainali.github.io/pdfs/insecure-default-authentication.pdf)  
+
+Decentralized Certificate Authorities 
+**Hannah Li**, Bargav Jayaraman and David Evans (co-equal first authors) 
+USENIX Poster Sessions, August 2017. [poster](https://hainali.github.io/pdfs/DCAUSENIXPOSTER2017.pdf), [abstract](https://hainali.github.io/pdfs/DCA_Usenix_Poster.pdf)
 
 ### Work Experience 
 
