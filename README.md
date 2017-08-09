@@ -28,8 +28,8 @@ Insecure by Default? Authentication Services in Popular Web Frameworks
 **Hannah Li** and David Evans  
 USENIX Poster Sessions, August 2016. [poster](https://hainali.github.io/pdfs/HainaLiUSENIX2016-Final.pdf), [abstract](https://hainali.github.io/pdfs/insecure-default-authentication.pdf)  
 
-Decentralized Certificate Authorities 
-**Hannah Li**, Bargav Jayaraman and David Evans (co-equal first authors) 
+Decentralized Certificate Authorities   
+**Hannah Li**, Bargav Jayaraman and David Evans (co-equal first authors)   
 USENIX Poster Sessions, August 2017. [poster](https://hainali.github.io/pdfs/DCAUSENIXPOSTER2017.pdf), [abstract](https://hainali.github.io/pdfs/DCA_Usenix_Poster.pdf)
 
 ### Work Experience 
